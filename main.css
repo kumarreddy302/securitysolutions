@@ -1,0 +1,105 @@
+li
+{
+    list-style-type: none;
+}
+.nav-item
+{
+    margin: 5px 5px;
+}
+.main
+{
+    background-color: black;
+}
+.headder
+{
+    background-color: black;
+}
+.b
+{
+    color:red ;
+}
+.b:hover
+{
+    color: white;
+}
+#navbarSupportedContent
+{
+    color: white;
+}
+#home
+{
+    background-color: black;
+    color: white;
+    font-family: 'Bree Serif', serif;
+    font-size: 4rem;
+}
+h1{
+    background-color: black;
+}
+.main1
+{
+    background-color: black;
+    color: white;
+    padding: 10% 12%;
+    max-height: 90%;
+    font-family: 'Sanchez', serif;
+    font-size: 1.4rem;
+}
+.now
+{
+    width:70%;
+    height:70%;
+    margin-top: 100px;
+}
+.main
+{
+   padding-top: 20px;
+}
+.lu
+{
+    list-style-type: disc;
+    margin-left: 40%;
+}
+#features
+{
+  padding: 10% 0;
+  font-family: 'Sanchez', serif;
+  font-size: 1.5rem;
+}
+.Line
+{
+    background-color: black;
+    color: white;
+    height: 500px;
+    font-family: 'Itim', cursive;
+    font-size: 1.5rem;
+}
+.col3
+{
+    padding: 15% 20% 0 20%;
+    font-size: 2.5rem;
+}
+.featuresclass
+{
+    padding-top: 5%;
+}
+.row4
+{
+    margin: 50px 45%;
+}
+.reddy
+{
+    padding: 50px 25px;
+}
+.fa-youtube
+{
+    color: red;
+}
+.fa-whatsapp
+{
+    color: green;
+}
+.fa-brands:hover
+{
+    color:gold;
+}

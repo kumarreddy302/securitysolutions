@@ -1,0 +1,71 @@
+.main
+{
+    background-color: #ff4c68;
+}
+.main1
+{
+    background-color: #ff4c68;
+    height: 90%;
+    padding: 50px 5%;
+    font-family: 'Boogaloo', cursive;
+    font-size: 1.5rem;
+}
+.d1
+{
+    padding-top: 50px;
+}
+.d2
+{
+    padding-top: 50px;
+}
+.d3
+{
+    padding-top: 50px;
+}
+li
+{
+    list-style-type: none;
+}
+.nav-item
+{
+    margin: 5px 5px;
+}
+.headd{
+    padding-top: 60px;
+}
+.b{
+    color: black;
+}
+.b:hover
+{
+    color: white;
+}
+hr{
+    border-radius: 100px;
+}
+.col3
+{
+    padding: 15% 20% 0 20%;
+    font-size: 2.5rem;
+}
+.fa-brands
+{
+    padding: 50px 25px;
+}
+.fa-youtube
+{
+    color: red;
+}
+.fa-whatsapp
+{
+    color: green;
+}
+.fa-brands:hover
+{
+    color:gold;
+}
+.headd
+{
+    font-family: 'Carter One', cursive;
+    font-size: 4rem;
+}

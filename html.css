@@ -1,0 +1,70 @@
+.main
+{
+    background-color: #069A8E;
+    color: #FAF5E4;
+}
+.main1
+{
+    background-color: #069A8E;
+    height: 90%;
+    padding: 50px 5%;
+    font-family: 'Playfair Display SC', serif;
+    font-size: 1.5rem;
+    color: #FAF5E4;
+}
+.d1
+{
+    padding-top: 50px;
+}
+.d2
+{
+    padding-top: 50px;
+}
+.d3
+{
+    padding-top: 50px;
+}
+li
+{
+    list-style-type: none;
+}
+.nav-item
+{
+    margin: 5px 5px;
+}
+.headd{
+    padding-top: 60px;
+}
+.b{
+    color: #ffc107;
+}
+.b:hover
+{
+    color: black;
+}
+.col3
+{
+    padding: 15% 20% 0 20%;
+    font-size: 2.5rem;
+}
+.fa-brands
+{
+    padding: 50px 25px;
+}
+.fa-youtube
+{
+    color: red;
+}
+.fa-whatsapp
+{
+    color: green;
+}
+.fa-brands:hover
+{
+    color:gold;
+}
+.h11
+{
+    font-family: 'Lobster', cursive;
+    font-size: 4rem;
+}
